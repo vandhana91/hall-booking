@@ -1,0 +1,29 @@
+[
+	{
+		"hotel_id": 2178,
+		"customername": "Rebecca",
+		"date": "09/24/2020",
+		"startdate": "09/30/2020",
+		"enddate": "10/01/2020",
+		"roomid":100
+	},
+	{
+		"hotel_id": 2131,
+	    "customername": "Aathi",
+		"date": "09/24/2020",
+		"startdate": "10/03/2020",
+		"enddate": "10/04/2020",
+		"roomid":200
+		
+	},
+	{
+		"hotel_id": 2129,
+	    "customername": "Arun",
+		"date": "09/24/2020",
+		"startdate": "10/03/2020",
+		"enddate": "10/04/2020",
+		"roomid":115
+		
+	},
+	
+]
